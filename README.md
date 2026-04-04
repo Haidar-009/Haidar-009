@@ -35,9 +35,11 @@ I'm a student from **XI RPL 1** who loves building websites and **indie games wi
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haidar-009&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haidar-009&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Haidar-009&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haidar-009&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
