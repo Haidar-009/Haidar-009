@@ -1,23 +1,39 @@
-# Hi there, I'm Haidar! 👋
+# <p align="center">Hi there, I'm Haidar! 🎮</p>
 
-### 🚀 Junior Web Developer | XI RPL 1 Student
-I'm a passionate learner from **XI RPL 1** who loves building interactive web applications. Currently focusing on mastering modern web technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Junior+Web+Developer;Godot+Game+Developer;Student+at+XI+RPL+1;Creating+Digital+Experiences" alt="Typing SVG" />
+</p>
 
----
-
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Haidar-009&color=blue&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🕹️ Gamedev & Web Dev
+I'm a student from **XI RPL 1** who loves building websites and **indie games with Godot Engine**. Combining logic and creativity to make something fun!
+
+* 🎮 **Currently building:** Small games with GDScript.
+* 🌐 **Latest Web Project:** [Portofolio XI RPL 1](https://github.com/Haidar-009/portofolio-rpl1)
+* 🌱 **Learning:** Shader programming & Advanced JS.
+
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=godot,html,css,js,tailwind,vite,vscode,git,github" />
+</p>
+
+---
+
+### 🐍 My Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Haidar-009/Haidar-009/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+---
+
+### 📊 My GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haidar-009&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haidar-009&layout=compact&theme=tokyonight" />
@@ -25,16 +41,12 @@ I'm a passionate learner from **XI RPL 1** who loves building interactive web ap
 
 ---
 
-### 📂 Current Projects
-- 🌐 [Portofolio XI RPL 1](https://github.com/Haidar-009/portofolio-rpl1) - My latest classroom project with Lightbox, Search, and Dark Mode.
-
----
-
 ### 📫 Connect with Me
 <p align="left">
-<a href="https://instagram.com/haidarrsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/USERNAME_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/USERNAME_IG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 ---
-*"Talk is cheap. Show me the code." - Linus Torvalds*
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
