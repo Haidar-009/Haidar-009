@@ -34,16 +34,18 @@ I'm a student from **XI RPL 1** who loves building websites and **indie games wi
 ---
 
 ### 📊 My GitHub Stats
+### 📊 My GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haidar-009&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haidar-009&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Haidar-009&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haidar-009&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 <p align="left">
-<a href="https://instagram.com/USERNAME_IG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://instagram.com/haidarrsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 ---
