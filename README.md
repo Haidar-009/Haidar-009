@@ -20,7 +20,7 @@ I'm a student from **XI RPL 1** who loves building websites and **indie games wi
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=godot,html,css,js,tailwind,vite,vscode,git,github" />
 </p>
 
@@ -45,13 +45,15 @@ I'm a student from **XI RPL 1** who loves building websites and **indie games wi
 ---
 
 ### 📫 Connect with Me
-<p align="left">
-  <a href="https://instagram.com/haidarrsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://instagram.com/haidarrsa" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
   <a href="https://discord.com/users/cpt0h" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
   </a>
   <a href="mailto:haidarsaifulah@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
