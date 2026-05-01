@@ -46,7 +46,7 @@ Di luar dunia baris kode, saya adalah seorang **investor pasar modal**. Saya akt
 
 ### 🛠️ Tech Stack & Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=godot,js,py,mysql,html,css,tailwind,vite,figma,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=godot,js,py,mysql,html,css,tailwind,vite,vscode,git,github" />
 </p>
 
 ---
