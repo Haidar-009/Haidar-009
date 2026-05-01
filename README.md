@@ -11,24 +11,51 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a developer focusing on **Web & Game Development**. Currently, I'm a student at **XI RPL 1**, where I sharpen my programming logic and digital creativity.
+I'm a developer focusing on **Web & Game Development**. Currently, I'm a student at **XI RPL 1**, sharpening my programming logic and digital creativity.
 
-Beyond the world of code, I am a **capital market investor**. I actively study investment instruments such as **Stocks, Mutual Funds, Bonds, and Retail SBN**. My fascination with numbers and market trends is what fuels my ambition to become a **Data Analyst**.
+I'm a **Windows 11** power user, spending most of my time in **VS Code** and **Git Bash**. Beyond the world of code, I am a **capital market investor**, actively studying Stocks, Mutual Funds, Bonds, and Retail SBN.
 
 - 🔭 **Main Focus:** Building interactive web ecosystems and engaging game mechanics.
-- 📈 **Side Interest:** Stock fundamental analysis & financial portfolio management.
-- 🎮 **Gaming Life:** Spending time in *War Thunder, CS2, Honkai Star Rail,* and building memories in *Minecraft*.
-- 🌱 **Learning:** Integrating Python with financial market data.
+- 📉 **Data Goals:** Planning to build a personal **Stock Portfolio Analytics** tool.
+- 🎮 **Gaming Life:** Spending time in *War Thunder, CS2, Honkai Star Rail,* and *Minecraft*.
+- 🤝 **Collaboration:** I'm open to networking and collaborating on exciting tech or game projects!
 
 ---
 
-### 🌟 Featured Project
+### 🛠️ Tech Stack Categorization
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><b>Frontend</b></td>
+    <td align="center" width="25%"><b>Backend & Data</b></td>
+    <td align="center" width="25%"><b>Game Dev</b></td>
+    <td align="center" width="25%"><b>Tools & OS</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=laravel,php,mysql,py" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=godot,cs" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,vscode,vite,windows" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌟 Featured Projects
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%" valign="top">
         <h4>🌐 Class Portfolio Web - XI RPL 1</h4>
-        <p>A collaborative class project featuring homeroom teacher data, student database, and a unique <b>Terminal AI Style</b> interface.</p>
+        <p>A collaborative project using <b>Tailwind CSS</b> and <b>Vite</b>, featuring a terminal AI-style interface. Deployed on Vercel.</p>
         <p>
           <a href="https://github.com/Haidar-009/portofolio-rpl1">
             <img src="https://img.shields.io/badge/View_Project-334155?style=for-the-badge&logo=github&logoColor=white" />
@@ -36,7 +63,11 @@ Beyond the world of code, I am a **capital market investor**. I actively study i
         </p>
       </td>
       <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haidar-009&repo=portofolio-rpl1&theme=tokyonight&hide_border=true" alt="Repo Pin" />
+        <h4>📊 Data Portfolio (Coming Soon)</h4>
+        <p>I'm planning to build a Python-based analysis tool to track and visualize my investment portfolio.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square" />
+        </p>
       </td>
     </tr>
   </table>
@@ -44,10 +75,9 @@ Beyond the world of code, I am a **capital market investor**. I actively study i
 
 ---
 
-### 🛠️ Tech Stack & Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=godot,js,py,mysql,html,css,tailwind,vite,vscode,git,github" />
-</p>
+### 📈 Investment Philosophy
+> *"Invest in your knowledge as much as you invest in your portfolio."*
+Inspired by **Andry Hakim** and **Doddy Bicara Investasi**, I believe that combining data analysis with disciplined financial management is the key to long-term growth.
 
 ---
 
