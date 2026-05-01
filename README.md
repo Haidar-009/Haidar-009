@@ -1,7 +1,7 @@
-# <p align="center">Hi there, I'm Haidar! 🎮</p>
+# <p align="center">Hi there, I'm Haidar! 🚀</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Junior+Web+Developer;Godot+Game+Developer;Student+at+XI+RPL+1;Creating+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Junior+Web+Developer;Godot+Game+Developer;Aspiring+Software+Engineer;Data+Analyst+Enthusiast;Student+at+XI+RPL+1" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,18 +10,29 @@
 
 ---
 
-### 🕹️ Gamedev & Web Dev
-I'm a student from **XI RPL 1** who loves building websites and **indie games with Godot Engine**. Combining logic and creativity to make something fun!
+### 📋 About Me
+Saya adalah siswa **XI RPL 1** yang sedang mendalami dunia teknologi dari berbagai sisi. Mulai dari menyusun logika di balik **Software Engineering**, membangun estetika di **Web Development**, menciptakan dunia di **Game Dev**, hingga mencari makna di balik angka sebagai **Data Analyst**.
 
-* 🎮 **Currently building:** Small games with GDScript.
-* 🌐 **Latest Web Project:** [Portofolio XI RPL 1](https://github.com/Haidar-009/portofolio-rpl1)
-* 🌱 **Learning:** Shader programming & Advanced JS.
+- 🔭 **Current Focus:** Memperdalam arsitektur perangkat lunak dan performa web.
+- 🎮 **Game Dev:** Sedang bereksperimen dengan mekanik game menggunakan **Godot & GDScript**.
+- 📊 **Data Goal:** Belajar cara memproses data untuk pengambilan keputusan yang lebih cerdas.
+- 🌱 **Learning:** Shader programming, Python for Data, & Advanced JavaScript.
+
+---
+
+### 🚀 Career Paths & Interests
+| Role | Interest | Goal |
+| :--- | :--- | :--- |
+| **Web Dev** | Frontend & UI/UX | Membangun web yang cepat dan responsif. |
+| **Game Dev** | Indie Games | Menciptakan pengalaman bermain yang unik. |
+| **Software Eng** | Clean Code | Membangun sistem yang skalabel dan efisien. |
+| **Data Analyst** | Visualization | Mengubah data mentah menjadi wawasan berharga. |
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=godot,html,css,js,tailwind,vite,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=godot,html,css,js,tailwind,vite,py,mysql,vscode,git,github,figma" />
 </p>
 
 ---
