@@ -11,14 +11,14 @@
 ---
 
 ### 👨‍💻 About Me
-Saya adalah seorang pengembang yang berfokus pada **Web & Game Development**. Saat ini saya duduk di kelas **XI RPL 1**, di mana saya mengasah logika pemrograman dan kreativitas digital.
+I'm a developer focusing on **Web & Game Development**. Currently, I'm a student at **XI RPL 1**, where I sharpen my programming logic and digital creativity.
 
-Di luar dunia baris kode, saya adalah seorang **investor pasar modal**. Saya aktif mempelajari instrumen investasi seperti **Saham, Reksadana, Obligasi, dan SBN Retail**. Ketertarikan saya pada angka dan tren pasar inilah yang memicu ambisi saya untuk juga menjadi seorang **Data Analyst**.
+Beyond the world of code, I am a **capital market investor**. I actively study investment instruments such as **Stocks, Mutual Funds, Bonds, and Retail SBN**. My fascination with numbers and market trends is what fuels my ambition to become a **Data Analyst**.
 
-- 🔭 **Main Focus:** Membangun ekosistem web yang interaktif dan mekanik game yang seru.
-- 📈 **Side Interest:** Analisis fundamental saham & manajemen portofolio keuangan.
-- 🎮 **Gaming Life:** Menghabiskan waktu di *War Thunder, CS2, Honkai Star Rail,* dan membangun kenangan di *Minecraft*.
-- 🌱 **Learning:** Menggabungkan Python dengan data pasar keuangan.
+- 🔭 **Main Focus:** Building interactive web ecosystems and engaging game mechanics.
+- 📈 **Side Interest:** Stock fundamental analysis & financial portfolio management.
+- 🎮 **Gaming Life:** Spending time in *War Thunder, CS2, Honkai Star Rail,* and building memories in *Minecraft*.
+- 🌱 **Learning:** Integrating Python with financial market data.
 
 ---
 
@@ -27,8 +27,8 @@ Di luar dunia baris kode, saya adalah seorang **investor pasar modal**. Saya akt
   <table border="0">
     <tr>
       <td width="50%" valign="top">
-        <h4>🌐 Web Portofolio Kelas XI RPL 1</h4>
-        <p>Project kolaborasi kelas yang menampilkan data wali kelas, database murid, dan fitur <b>Terminal AI Style</b>.</p>
+        <h4>🌐 Class Portfolio Web - XI RPL 1</h4>
+        <p>A collaborative class project featuring homeroom teacher data, student database, and a unique <b>Terminal AI Style</b> interface.</p>
         <p>
           <a href="https://github.com/Haidar-009/portofolio-rpl1">
             <img src="https://img.shields.io/badge/View_Project-334155?style=for-the-badge&logo=github&logoColor=white" />
