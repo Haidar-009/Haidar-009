@@ -52,9 +52,6 @@ I'm a **Windows 11** power user, spending most of my time in **VS Code** and **G
 ---
 
 ### 🌟 Featured Projects
----
-
-### 🌟 Featured Projects
 <div align="center">
   <table border="0">
     <tr>
