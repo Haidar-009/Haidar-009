@@ -13,18 +13,22 @@
 ### 👨‍💻 About Me
 I'm a developer focusing on **Web & Game Development**. Currently, I'm a student at **XI RPL 1**, sharpening my programming logic and digital creativity.
 
-I'm a **Windows 11** power user, spending most of my time in **VS Code** and **Git Bash**. Beyond the world of code, I am a **capital market investor**, actively building tools to bridge the gap between Data Science and Finance.
+Beyond the world of code, I am a **capital market investor**, actively building tools to bridge the gap between Data Science and Finance.
 
 - 🔭 **Main Focus:** Building interactive web ecosystems and engaging game mechanics.
 - 📈 **Current Project:** Optimizing **FinSight**, a real-time wealth analytics dashboard.
-- 🎮 **Gaming Life:** Spending time in *War Thunder, CS2, Honkai Star Rail,* and *Minecraft*.
-- 🤝 **Collaboration:** I'm open to networking and collaborating on exciting tech or game projects!
+- 🤝 **Collaboration:** I'm open to networking on exciting tech or game projects!
 
 ---
 
-### 🛠️ Proficiency
+### 📊 Proficiency & Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haidar-009&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&hide=jupyter" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Haidar-009&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haidar-009&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -55,35 +59,6 @@ I'm a **Windows 11** power user, spending most of my time in **VS Code** and **G
     </td>
   </tr>
 </table>
-
-
----
-
-
-### 📈 Investment Philosophy
-> *"Invest in your knowledge as much as you invest in your portfolio."*
-Inspired by **Andry Hakim** and **Doddy Bicara Investasi**, I believe that combining data analysis with disciplined financial management is the key to long-term growth.
-
-
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haidar-009&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haidar-009&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haidar-009&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-
-### 🐍 My Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Haidar-009/Haidar-009/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
 
 ---
 
