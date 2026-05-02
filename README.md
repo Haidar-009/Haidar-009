@@ -22,6 +22,13 @@ I'm a **Windows 11** power user, spending most of my time in **VS Code** and **G
 
 ---
 
+### 🛠️ Proficiency
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haidar-009&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&hide=jupyter" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack Categorization
 
 <table align="center">
