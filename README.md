@@ -49,13 +49,14 @@ I'm a **Windows 11** power user, spending most of my time in **VS Code** and **G
   </tr>
 </table>
 
----
 
 ---
+
 
 ### 📈 Investment Philosophy
 > *"Invest in your knowledge as much as you invest in your portfolio."*
 Inspired by **Andry Hakim** and **Doddy Bicara Investasi**, I believe that combining data analysis with disciplined financial management is the key to long-term growth.
+
 
 ---
 
