@@ -49,7 +49,7 @@ Beyond the world of code, I am a **capital market investor**, actively building 
 </table>
 
 ---
-### 📊 Proficiency & Analytics
+### 📊 Stats & Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haidar-009&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&hide=jupyter" />
 </p>
@@ -58,6 +58,16 @@ Beyond the world of code, I am a **capital market investor**, actively building 
   <img src="https://github-readme-stats.vercel.app/api?username=Haidar-009&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haidar-009&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haidar-009&theme=tokyonight&area=true&hide_border=true" width="100%" />
+</p>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Haidar-009&theme=tokyonight&no-bg=true&no-frame=true&column=7" />
+  </a>
+</div>
 
 ---
 
@@ -78,6 +88,8 @@ Beyond the world of code, I am a **capital market investor**, actively building 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
+
+---
 
 <p align="center">
   Released under the <a href="https://github.com/Haidar-009/Haidar-009/blob/main/LICENSE">MIT License</a>.
