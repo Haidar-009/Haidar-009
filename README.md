@@ -1,7 +1,7 @@
 # <p align="center">Hi there, I'm Haidar! 🚀</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=94A3B8&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Godot+Game+Developer;Data+Analyst+Enthusiast;Financial+Market+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=94A3B8&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Godot+Game+Developer;FinSight+Creator;Financial+Market+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,10 +13,10 @@
 ### 👨‍💻 About Me
 I'm a developer focusing on **Web & Game Development**. Currently, I'm a student at **XI RPL 1**, sharpening my programming logic and digital creativity.
 
-I'm a **Windows 11** power user, spending most of my time in **VS Code** and **Git Bash**. Beyond the world of code, I am a **capital market investor**, actively studying Stocks, Mutual Funds, Bonds, and Retail SBN.
+I'm a **Windows 11** power user, spending most of my time in **VS Code** and **Git Bash**. Beyond the world of code, I am a **capital market investor**, actively building tools to bridge the gap between Data Science and Finance.
 
 - 🔭 **Main Focus:** Building interactive web ecosystems and engaging game mechanics.
-- 📉 **Data Goals:** Planning to build a personal **Stock Portfolio Analytics** tool.
+- 📈 **Current Project:** Optimizing **FinSight**, a real-time wealth analytics dashboard.
 - 🎮 **Gaming Life:** Spending time in *War Thunder, CS2, Honkai Star Rail,* and *Minecraft*.
 - 🤝 **Collaboration:** I'm open to networking and collaborating on exciting tech or game projects!
 
@@ -36,7 +36,9 @@ I'm a **Windows 11** power user, spending most of my time in **VS Code** and **G
       <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=laravel,php,mysql,py" />
+      <img src="https://skillicons.dev/icons?i=laravel,php,py,mysql" /><br>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" />
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=godot,cs" />
@@ -54,19 +56,21 @@ I'm a **Windows 11** power user, spending most of my time in **VS Code** and **G
   <table border="0">
     <tr>
       <td width="50%" valign="top">
+        <h4>📊 FinSight - Wealth Analytics</h4>
+        <p>A Python-based dashboard using <b>Streamlit</b> and <b>YFinance</b> for real-time market tracking and risk management (Average Down Calculator).</p>
+        <p>
+          <a href="https://github.com/Haidar-009/Personal-Wealth-Analytics">
+            <img src="https://img.shields.io/badge/View_Project-334155?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </td>
+      <td width="50%" valign="top">
         <h4>🌐 Class Portfolio Web - XI RPL 1</h4>
         <p>A collaborative project using <b>Tailwind CSS</b> and <b>Vite</b>, featuring a terminal AI-style interface. Deployed on Vercel.</p>
         <p>
           <a href="https://github.com/Haidar-009/portofolio-rpl1">
             <img src="https://img.shields.io/badge/View_Project-334155?style=for-the-badge&logo=github&logoColor=white" />
           </a>
-        </p>
-      </td>
-      <td width="50%" valign="top">
-        <h4>📊 Data Portfolio (Coming Soon)</h4>
-        <p>I'm planning to build a Python-based analysis tool to track and visualize my investment portfolio.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square" />
         </p>
       </td>
     </tr>
@@ -93,12 +97,6 @@ Inspired by **Andry Hakim** and **Doddy Bicara Investasi**, I believe that combi
 
 ---
 
-### 🎵 Currently Listening
-<p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=30363d&bar_color=6366f1&bar_color_active=818cf8" alt="Spotify" />
-</p>
-
----
 
 ### 🐍 My Contribution Snake
 <p align="center">
