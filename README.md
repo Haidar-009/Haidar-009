@@ -51,34 +51,6 @@ I'm a **Windows 11** power user, spending most of my time in **VS Code** and **G
 
 ---
 
-### 🌟 Featured Projects
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" valign="top">
-        <h4>📊 FinSight - Wealth Analytics</h4>
-        <p>A Python-based dashboard using <b>Streamlit</b> and <b>YFinance</b> for real-time market tracking and risk management (Average Down Calculator).</p>
-        <p>
-          <a href="https://github.com/Haidar-009/Personal-Wealth-Analytics">
-            <img src="https://img.shields.io/badge/View_Project-334155?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-      </td>
-      <td width="50%" valign="top">
-        <h4>🌐 Class Portfolio Web - XI RPL 1</h4>
-        <p>A collaborative project using <b>Tailwind CSS</b> and <b>Vite</b>, featuring a terminal AI-style interface. Deployed on Vercel.</p>
-        <p>
-          <a href="https://github.com/Haidar-009/portofolio-rpl1">
-            <img src="https://img.shields.io/badge/View_Project-334155?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ---
 
 ### 📈 Investment Philosophy
