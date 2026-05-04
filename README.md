@@ -9,12 +9,12 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a developer focusing on **Web & Game Development**. Currently, I'm a student at **XI RPL 1**, sharpening my programming logic and digital creativity.
+I'm a developer focusing on **Web & Game Development**. Currently, I'm a student at **XI RPL 1**
 
-Beyond the world of code, I am a **capital market investor**, actively building tools to bridge the gap between Data Science and Finance.
+Beyond the world of code, I am a **capital market investor**, actively building tools to bridge the gap between Data Science and Finance
 
-- 🔭 **Main Focus:** Building interactive web ecosystems and engaging game mechanics.
-- 📈 **Current Project:** Optimizing **FinSight**, a real-time wealth analytics dashboard.
+- 🔭 **Main Focus:** Building interactive web ecosystems and engaging game mechanics
+- 📈 **Current Project:** Optimizing **FinSight**, a real-time wealth analytics dashboard
 - 🤝 **Collaboration:** I'm open to networking on exciting tech or game projects!
 
 ---
