@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=94A3B8&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Godot+Game+Developer;FinSight+Creator;Financial+Market+Learner" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Haidar-009&color=334155&style=flat-square&label=PROFILE+VIEWS" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
