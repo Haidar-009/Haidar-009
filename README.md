@@ -1,4 +1,6 @@
-# <p align="center">Hi there, I'm Haidar! 🚀</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=Haidar%20Saefullah&fontSize=70&animation=fadeIn" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=94A3B8&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Godot+Game+Developer;FinSight+Creator;Financial+Market+Learner" alt="Typing SVG" />
