@@ -51,6 +51,23 @@ Beyond the world of code, I am a **capital market investor**, actively building 
 </table>
 
 ---
+
+### 📈 Market Interests
+<p align="center">
+  <img src="https://img.shields.io/badge/Saham-75.8%25-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RDPT-14.2%25-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SBN-7.3%25-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RDPU-2.4%25-green?style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/IHSG-Stock_Market-blue?style=flat-square&logo=chart-line&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crypto-Digital_Assets-orange?style=flat-square&logo=bitcoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Science-Analytics-green?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Macro_Economics-Global-red?style=flat-square&logo=world&logoColor=white" />
+</p>
+
+
+---
 ### 📊 Stats & Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haidar-009&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&hide=jupyter" />
