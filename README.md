@@ -8,6 +8,7 @@
 
 ---
 
+
 ### 👨‍💻 About Me
 I'm a developer focusing on **Web & Game Development**. Currently, I'm a student at **XI RPL 1**
 
@@ -62,15 +63,14 @@ Beyond the world of code, I am a **capital market investor**, actively building 
   <img src="https://img.shields.io/badge/Macro_Economics-Global-red?style=flat-square&logo=world&logoColor=white" />
 </p>
 
+<p align="center"> Disclaimer: All financial data and asset allocations shown are for educational and portfolio purposes only. This is not financial advice </p>
+
 
 ---
 ### 📊 Stats & Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haidar-009&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&hide=jupyter" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haidar-009&show_icons=true&theme=tokyonight&hide_border=true" />
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haidar-009&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -85,6 +85,7 @@ Beyond the world of code, I am a **capital market investor**, actively building 
 </div>
 
 ---
+
 
 ### 🐍 My Contribution Snake
 <p align="center">
@@ -104,7 +105,9 @@ Beyond the world of code, I am a **capital market investor**, actively building 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer&width=1000" />
+</p>
 
 <p align="center">
   Released under the <a href="https://github.com/Haidar-009/Haidar-009/blob/main/LICENSE">MIT License</a>.
