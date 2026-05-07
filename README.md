@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Godot+Game+Developer;FinSight+Creator;Financial+Market+Learner" alt="Typing SVG" />
 </p>
 
+
+
 ---
 
 
@@ -47,26 +49,23 @@ Beyond the world of code, I am a **capital market investor**, actively building 
   </tr>
 </table>
 
----
 
-### 📈 Market Interests
-<p align="center">
-  <img src="https://img.shields.io/badge/Saham-75.8%25-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RDPT-14.2%25-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SBN-7.3%25-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RDPU-2.4%25-green?style=for-the-badge" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/IHSG-Stock_Market-blue?style=flat-square&logo=chart-line&logoColor=white" />
-  <img src="https://img.shields.io/badge/Crypto-Digital_Assets-orange?style=flat-square&logo=bitcoin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Science-Analytics-green?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Macro_Economics-Global-red?style=flat-square&logo=world&logoColor=white" />
-</p>
-
-<p align="center"> Disclaimer: All financial data and asset allocations shown are for educational and portfolio purposes only. This is not financial advice </p>
-
+<table align="center">
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://github.com/godotengine/godot-design-data/raw/master/logo/icon_color_outline.png" width="80" />
+    </td>
+    <td align="left">
+      Passionate about game engineering with GDScript and Focusing on clean code, performance optimization, and engaging player feedback loops. 
+      <br><br>
+      My Best Mechanics: Character Controller,  Procedural Generation.
+      <br>
+    </td>
+  </tr>
+</table>
 
 ---
+
 ### 📊 Stats & Analytics
 
 <p align="center">
@@ -94,6 +93,25 @@ Beyond the world of code, I am a **capital market investor**, actively building 
 
 ---
 
+### 📈 Market Interests
+<p align="center">
+  <img src="https://img.shields.io/badge/Saham-75.8%25-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RDPT-14.2%25-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SBN-7.3%25-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RDPU-2.4%25-green?style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/IHSG-Stock_Market-blue?style=flat-square&logo=chart-line&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crypto-Digital_Assets-orange?style=flat-square&logo=bitcoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Science-Analytics-green?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Macro_Economics-Global-red?style=flat-square&logo=world&logoColor=white" />
+</p>
+
+<p align="center"><sub><i>Disclaimer: All financial data and asset allocations shown are for educational and portfolio purposes only. This is not financial advice.</i></sub></p>
+
+
+---
+
 ### 📫 Let's Connect
 <p align="center">
   <a href="https://instagram.com/haizxen" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -108,6 +126,8 @@ Beyond the world of code, I am a **capital market investor**, actively building 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer&width=1000" />
 </p>
+
+
 
 <p align="center">
   Released under the <a href="https://github.com/Haidar-009/Haidar-009/blob/main/LICENSE">MIT License</a>.
