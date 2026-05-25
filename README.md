@@ -37,7 +37,7 @@ I'm a developer focusing on **Web & Game Development**. Currently, I'm a student
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=godot,cs" />
+      <img src="https://skillicons.dev/icons?i=godot,unity" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git,vscode,vite" />
