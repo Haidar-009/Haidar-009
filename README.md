@@ -30,12 +30,11 @@ I'm a developer focusing on **Web & Game Development**. Currently, I'm a student
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,js,tailwind" />
+      <img src="https://skillicons.dev/icons?i=react,tailwind,vue,nextjs" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=laravel,py,mysql" /><br>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" />
-      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=godot,cs" />
