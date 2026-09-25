@@ -3,13 +3,13 @@
 </p>
 
 
-### 👨‍💻 About Me
+### About Me
 Web & Game Developer | Fokus pada ekosistem web interaktif dan mekanik game dengan GDScript.
 Terbuka untuk kolaborasi proyek tech & game menarik.
 
 ---
 
-### 🛠️ Tech Stack Categorization
+### Tech Stack Categorization
 
 <table align="center">
   <tr>
@@ -37,7 +37,7 @@ Terbuka untuk kolaborasi proyek tech & game menarik.
 
 ---
 
-### 📊 Stats & Analytics
+### Stats & Analytics
 
 <p align="center">
  
@@ -52,7 +52,7 @@ Terbuka untuk kolaborasi proyek tech & game menarik.
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 <p align="center">
   <a href="https://instagram.com/haizxen" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://discord.com/users/cpt0h" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
