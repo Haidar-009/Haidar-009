@@ -11,22 +11,6 @@
 Web & Game Developer | Fokus pada ekosistem web interaktif dan mekanik game dengan GDScript.
 Terbuka untuk kolaborasi proyek tech & game menarik.
 
-### 🚀 Featured Projects
-<table align="center">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Haidar-009/NAMA-REPO-1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haidar-009&repo=NAMA-REPO-1&theme=tokyonight" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Haidar-009/NAMA-REPO-2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haidar-009&repo=NAMA-REPO-2&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ### 🛠️ Tech Stack Categorization
