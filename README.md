@@ -3,10 +3,6 @@
 </p>
 
 
-
----
-
-
 ### 👨‍💻 About Me
 Web & Game Developer | Fokus pada ekosistem web interaktif dan mekanik game dengan GDScript.
 Terbuka untuk kolaborasi proyek tech & game menarik.
