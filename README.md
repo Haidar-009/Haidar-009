@@ -3,12 +3,6 @@
 </p>
 
 
-Web & Game Developer 
-Fokus pada ekosistem web interaktif dan mekanik game dengan GDScript.
-Terbuka untuk kolaborasi proyek tech & game menarik.
-
----
-
 ### Tech Stack Categorization
 
 <table align="center">
