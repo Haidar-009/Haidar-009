@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=Haidar%20Saefullah&fontSize=70&animation=fadeIn" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Web+Developer;Game+Developer;Financial+Market+Learner" alt="Typing SVG" />
 </p>
 
@@ -14,6 +10,22 @@
 ### 👨‍💻 About Me
 Web & Game Developer | Fokus pada ekosistem web interaktif dan mekanik game dengan GDScript.
 Terbuka untuk kolaborasi proyek tech & game menarik.
+
+### 🚀 Featured Projects
+<table align="center">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Haidar-009/NAMA-REPO-1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haidar-009&repo=NAMA-REPO-1&theme=tokyonight" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Haidar-009/NAMA-REPO-2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haidar-009&repo=NAMA-REPO-2&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
