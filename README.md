@@ -12,11 +12,8 @@
 
 
 ### 👨‍💻 About Me
-I'm a developer focusing on **Web & Game Development**. Currently, I'm a student at **XI RPL 1**
-
-- 🔭 **Main Focus:** Building interactive web ecosystems and engaging game mechanics with GDScript
-
- I'm open to networking on exciting tech or game projects!
+Web & Game Developer | Fokus pada ekosistem web interaktif dan mekanik game dengan GDScript.
+Terbuka untuk kolaborasi proyek tech & game menarik.
 
 ---
 
