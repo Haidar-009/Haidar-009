@@ -18,7 +18,6 @@
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=laravel,py,mysql" /><br>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=godot,unity" />
@@ -55,14 +54,4 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer&width=1000" />
-</p>
-
-
-
-<p align="center">
-  Released under the <a href="https://github.com/Haidar-009/Haidar-009/blob/main/LICENSE">MIT License</a>.
 </p>
