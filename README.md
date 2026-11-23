@@ -14,16 +14,16 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,tailwind,vue,nextjs" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=laravel,py,mysql" /><br>
+      <img src="https://skillicons.dev/icons?i=py,mysql" /><br>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=godot,unity" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,vscode,vite" />
+      <img src="https://skillicons.dev/icons?i=vscode,docker" />
     </td>
   </tr>
 </table>
